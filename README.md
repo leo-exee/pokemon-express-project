@@ -31,6 +31,10 @@ Start the server:
 npm start
 ```
 
+## Use the API
+
+Once the project is launched, you can access all available routes in [this postman](https://www.postman.com/littlebill2/workspace/express-project-pokemon-crud/collection/29654045-6cf19647-c282-4b67-9046-4e3ec1d63738?action=share&source=copy-link&creator=29654045).
+
 ## Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
